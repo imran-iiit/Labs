@@ -1,0 +1,25 @@
+Location,cuisine,budget,Restaurant
+north,Chinese,good,North Chinese Five Star Restaurant
+north,Chinese,bad,North Chinese Bad Restaurant
+north,Indian,good,North Indian Five Star Restaurant
+north,Indian,bad,North Indian Cheap Restaurant
+north,Continental,good,North Continental Five Star Restaurant
+north,Chinese,bad,North Continental Bad Restaurant
+south,Chinese,good,South Chinese Five Star Restaurant
+south,Chinese,bad,South Chinese Bad Restaurant
+soutn,Indian,good,South Indian Five Star Restaurant
+south,Indian,bad,South Indian Cheap Restaurant
+south,Continental,good,South Continental Five Star Restaurant
+south,Chinese,bad,South Continental Bad Restaurant
+east,Chinese,good,East Chinese Five Star Restaurant
+east,Chinese,bad,East Chinese Bad Restaurant
+east,Indian,good,East Indian Five Star Restaurant
+east,Indian,bad,East Indian Cheap Restaurant
+east,Continental,good,East Continental Five Star Restaurant
+east,Chinese,bad,East Continental Bad Restaurant
+west,Chinese,good,West Chinese Five Star Restaurant
+west,Chinese,bad,West Chinese Bad Restaurant
+west,Indian,good,West Indian Five Star Restaurant
+west,Indian,bad,West Indian Cheap Restaurant
+west,Continental,good,West Continental Five Star Restaurant
+west,Chinese,bad,West Continental Bad Restaurant
